@@ -1,0 +1,7 @@
+Path:
+Your_website_folder/
+application/
+assets/
+system/
+.htaccess <——— this file
+index.php
